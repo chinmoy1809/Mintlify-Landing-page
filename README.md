@@ -1,4 +1,4 @@
-# Mintlify Landing Page Clone 🚀
+# Mintlify Landing Page Clone 
 
 This project is a **frontend clone of the Mintlify Landing Page**, recreated to practice modern UI development, layout structuring, and responsive web design.
 
@@ -6,7 +6,7 @@ The goal of this project was to replicate the clean developer-focused interface 
 
 ---
 
-## 📌 Sections Recreated
+## Sections Recreated
 
 The following sections from the original Mintlify landing page were recreated:
 
@@ -45,7 +45,7 @@ The following sections from the original Mintlify landing page were recreated:
 
 ---
 
-## 🎨 Fonts Used
+## Fonts Used
 
 Inspired by Mintlify's modern developer aesthetic:
 
@@ -56,7 +56,7 @@ These fonts provide readability and a clean documentation-style appearance.
 
 ---
 
-## 🎨 Colors Used
+## Colors Used
 
 Approximate Mintlify-inspired color palette:
 
@@ -71,7 +71,7 @@ Approximate Mintlify-inspired color palette:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
@@ -81,9 +81,9 @@ Approximate Mintlify-inspired color palette:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is created **only for educational purposes**.  
 All design rights belong to the original Mintlify website.
 
-Original Website: https://landing.mintlify.com/
+Original Website: https://www.mintlify.com/
